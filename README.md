@@ -5,7 +5,7 @@
 ## 在 Markdown 中使用
 
 ```markdown
-![settings](https://raw.githubusercontent.com/15890388820/game-icons/main/1.UI/settings.svg)
+![settings](https://raw.githubusercontent.com/LRedHat233/game-icons/main/1.UI/settings.svg)
 ```
 
 ## 图标分类
